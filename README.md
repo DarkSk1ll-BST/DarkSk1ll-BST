@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DarkSk1ll-BST
+- 👀 I’m interested in C++ & Squirrel languages...
+- 🌱 I’m currently learning Squirrel "Vscript"
+- 💞️ I’m looking to collaborate on C++ soon :D
+- 📫 Im speedrunner of L4D2 TAS - Brazilian Speedrun Team https://www.youtube.com/channel/UC6Lk9A5hp5uBsIDx4gUc-aQ
